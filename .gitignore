@@ -1,0 +1,11 @@
+*
+!*/
+!*.*
+.vscode/*
+.clangd
+*.cbp
+*.layout
+*.depend
+.DS_STORE
+tmp.cpp
+*.o
