@@ -7,5 +7,6 @@
 *.layout
 *.depend
 .DS_STORE
-tmp.cpp
+tmp.*
+test.cpp
 *.o
